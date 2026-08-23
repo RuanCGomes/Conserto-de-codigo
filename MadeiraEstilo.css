@@ -1,0 +1,26 @@
+body{
+background-color: #ffe2a4;
+}
+
+.container {
+color:rgb(255, 245, 216);
+width: 100%;
+display: flex;
+text-align: center;
+flex-direction: row;
+background-color:rgb(255, 187, 39);
+}
+
+h1 {
+color:rgb(255, 245, 216);
+background-color:rgb(255, 123, 0);
+text-align: center;
+font-weight: bold;
+}
+
+h2 {
+color:rgb(255, 245, 216);
+background-color:rgb(255, 187, 39);
+text-align: center;
+font-weight: bold;
+}
